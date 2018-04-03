@@ -21,4 +21,4 @@ yarn-error.log*
 tags
 tags.*
 
-secrets.json
+secrets.js
