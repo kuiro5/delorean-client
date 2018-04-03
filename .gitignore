@@ -20,3 +20,5 @@ yarn-error.log*
 
 tags
 tags.*
+
+secrets.json
